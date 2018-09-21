@@ -36,3 +36,9 @@ a:hover {
     padding-top:15px;
     padding-bottom:15px;
 }
+
+.absolute-right {
+    position: absolute;
+    right: 15px;
+    z-index: 2;
+}
